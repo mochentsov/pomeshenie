@@ -16,7 +16,7 @@
     
     <!-- Вставьте свою модель -->
      <model-viewer 
-        src="помещение.glb" 
+        src="room.glb" 
         ar 
         ar-modes="scene-viewer quick-look webxr" 
         camera-controls 
